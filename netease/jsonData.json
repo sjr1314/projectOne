@@ -1,0 +1,1879 @@
+{
+    "cateList": [
+         {
+            "name": "推荐专区",
+            "type": 1,
+            "title": "推荐专区分类",
+            "img": "http://yanxuan.nosdn.127.net/d2a67633d16e3328ee9e20360f219ace.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"婴童小件99任5",
+                    "img":"http://yanxuan.nosdn.127.net/1f29c6492dbb1659cde748bb881c07b9.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"坚果炒货特惠",
+                    "img":"http://yanxuan.nosdn.127.net/5a8c62313de7b71eae07554c8ec5ecdb.jpg?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"999+好评",
+                    "img":"http://yanxuan.nosdn.127.net/0822dcdac7803df99a4f428115ba7640.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"丁磊的好货推荐",
+                    "img":"http://yanxuan.nosdn.127.net/7e71b041939a8785c038484dba48a500.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"黑凤梨系列",
+                    "img":"http://yanxuan.nosdn.127.net/fd9c24de738834d53a233a2ac6010e9a.jpeg?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"运动鞋",
+                    "img":"http://yanxuan.nosdn.127.net/c6945658e14ff1a3659c16358368c9f2.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"萌宝春装",
+                    "img":"http://yanxuan.nosdn.127.net/c89ce832a17cff18d1bb55cccf71d82c.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"红酒控",
+                    "img":"http://yanxuan.nosdn.127.net/d675034d9fbf986993f25d691944896b.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"亲子装",
+                    "img":"http://yanxuan.nosdn.127.net/47ff25b9c6f4c91d5fd48a6648d1ecd7.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "春季专区",
+            "type": 2,
+            "title": "春季专区分类",
+            "img": "http://yanxuan.nosdn.127.net/571062f95e8ac1a1241ec12d6f6ead2d.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"踏春必备",
+                    "img":"http://yanxuan.nosdn.127.net/0c8fcbbaf730f3622edce347333d3c30.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"透气床品",
+                    "img":"http://yanxuan.nosdn.127.net/f00b2135e25a6eb3578a8acdd9f7403b.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"春茶飘香",
+                    "img":"http://yanxuan.nosdn.127.net/2e8565615d79379ec5d7af18f571c017.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"男士春装",
+                    "img":"http://yanxuan.nosdn.127.net/9e6c78f66ca2bdfa2c91d9f8f99d3692.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"女士春装",
+                    "img":"http://yanxuan.nosdn.127.net/eab5769ceee2d8bf9aa5c9a9d0f4d2cd.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"萌宝春装",
+                    "img":"http://yanxuan.nosdn.127.net/c89ce832a17cff18d1bb55cccf71d82c.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"旅行者",
+                    "img":"http://yanxuan.nosdn.127.net/562c40a217b81a424203a88c4762433c.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"加班狗",
+                    "img":"http://yanxuan.nosdn.127.net/a9a59c3d59a0fda7e0d4e93172093d84.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"运动侠",
+                    "img":"http://yanxuan.nosdn.127.net/354659c06f33e05d1ab9c7715f1259ac.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "个性专区",
+            "type": 3,
+            "title": "个性专区分类",
+            "img": "http://yanxuan.nosdn.127.net/6518c37fa42e5b724f436d08e31f6cc9.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"OL风",
+                    "img":"http://yanxuan.nosdn.127.net/132b5abecaa0a12bba477902c531d2b1.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"宅家族",
+                    "img":"http://yanxuan.nosdn.127.net/59cfd7db14a61a8a19a8b63b95957ab2.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"养生派",
+                    "img":"http://yanxuan.nosdn.127.net/9f7595d8f5c5ba606ce0d55546f7abb9.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"颜值控",
+                    "img":"http://yanxuan.nosdn.127.net/a641b224acb912e2bb0a73f96022d583.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"生活家",
+                    "img":"http://yanxuan.nosdn.127.net/2da63a328c56c9f57290bddb586c0ef3.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"情侣装",
+                    "img":"http://yanxuan.nosdn.127.net/03756322edc0a20155aa2c285ca25c20.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"学生党",
+                    "img":"http://yanxuan.nosdn.127.net/040364a5577103ed2f8caf85825074b3.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"爱车族",
+                    "img":"http://yanxuan.nosdn.127.net/ddc2c470c02ee8aa6d37ae8564f991cb.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"情侣装",
+                    "img":"http://yanxuan.nosdn.127.net/03756322edc0a20155aa2c285ca25c20.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "居家",
+            "type": 4,
+            "title": "居家分类",
+            "img": "http://yanxuan.nosdn.127.net/f6520714a4067019c0dc9c3bcbb924ed.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"床品件套",
+                    "img":"http://yanxuan.nosdn.127.net/d77f8cd37529d4fc10932aaf708663bc.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"被枕",
+                    "img":"http://yanxuan.nosdn.127.net/fb0de30ab423322df3ab3c65f10e51a1.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"家具",
+                    "img":"http://yanxuan.nosdn.127.net/16b936a40daf74eb36fdefdd361c88b3.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"收纳",
+                    "img":"http://yanxuan.nosdn.127.net/6fef602bb1214c250ac662bb6cc95e9e.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"家饰",
+                    "img":"http://yanxuan.nosdn.127.net/b0e937f66f164f0c05900fc27d8bc205.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"情侣装",
+                    "img":"http://yanxuan.nosdn.127.net/227a266e41a477fd28a405b9953ba640.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                   {
+                    "description":"宠物",
+                    "img":"http://yanxuan.nosdn.127.net/6ee564543f7cbc140794e68c9ac0e17e.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "配件",
+            "type": 5,
+            "title": "配件分类",
+            "img": "http://yanxuan.nosdn.127.net/32e2be8f26905a8092fabd6fc41137c9.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"行李箱",
+                    "img":"http://yanxuan.nosdn.127.net/0e7fb49925312a624d95dff5b540891e.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"男士包袋",
+                    "img":"http://yanxuan.nosdn.127.net/b2210fd5d072617dcecd029ca493f0df.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"女士包袋",
+                    "img":"http://yanxuan.nosdn.127.net/779ee914d25c0f1ba607f4d2515e60a4.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"钱包及小皮件",
+                    "img":"http://yanxuan.nosdn.127.net/da0922d01cd3e545172479d6234901d0.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"男鞋",
+                    "img":"http://yanxuan.nosdn.127.net/91a9d6957788af02ce867236228007ee.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"女鞋",
+                    "img":"http://yanxuan.nosdn.127.net/0127fee637d1dc2959b7ff90c2f6fbd7.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"围巾件套",
+                    "img":"http://yanxuan.nosdn.127.net/d6313efdd8fa0bfba3f3fe6ee04eb42c.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "服装",
+            "type": 6,
+            "title": "服装分类",
+            "img": "http://yanxuan.nosdn.127.net/9c3a4f3277b8aa3073f8d07e832ea12d.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"T恤",
+                    "img":"http://yanxuan.nosdn.127.net/505c9a5a794b79e85fef4654722b3447.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"衬衫",
+                    "img":"http://yanxuan.nosdn.127.net/7927f8422c341f7353041a30d01045a2.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"牛仔",
+                    "img":"http://yanxuan.nosdn.127.net/8752be5bb8de1aaffe128f22788ece58.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"运动",
+                    "img":"http://yanxuan.nosdn.127.net/b50156947bee1192b1342431685c9f84.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"外衣",
+                    "img":"http://yanxuan.nosdn.127.net/f36ee93c7168025e85ca0a20078610d7.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"裤装",
+                    "img":"http://yanxuan.nosdn.127.net/1728b4eeaa7a3928f5416884f0e75b1c.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"内衣",
+                    "img":"http://yanxuan.nosdn.127.net/02fede55aba1bc6c9d7f7c01682f9e2d.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "电器",
+            "type": 7,
+            "title": "电器分类",
+            "img": "http://yanxuan.nosdn.127.net/cac3626b2c4ed1921d8d86866b1a58e8.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"生活电器",
+                    "img":"http://yanxuan.nosdn.127.net/77b221c72cd9009a7272af1b251c6ad4.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"厨房电器",
+                    "img":"http://yanxuan.nosdn.127.net/c09d784ba592e4fadabbaef6b2e95a95.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"个护健康",
+                    "img":"http://yanxuan.nosdn.127.net/f63241ed305df78b322daf2a6e33094a.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"数码",
+                    "img":"http://yanxuan.nosdn.127.net/c33b13875a86da535c935e3d454a6fd2.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"影音娱乐",
+                    "img":"http://yanxuan.nosdn.127.net/72c28d827fb7d28f94932bcf57b87702.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"茶具咖啡具",
+                    "img":"http://yanxuan.nosdn.127.net/eabe95f5f15464394262ee243a49abc6.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "洗护",
+            "type": 8,
+            "title": "洗护分类",
+            "img": "http://yanxuan.nosdn.127.net/c7fada37e3f6d363f482fb57cf28d753.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"家庭清洁",
+                    "img":"http://yanxuan.nosdn.127.net/83ffdcf4c52cdb2a8bd5d6821c8563c4.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"生理用品",
+                    "img":"http://yanxuan.nosdn.127.net/e0580140a75d57e4dec9cf42e690e0a6.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"毛巾",
+                    "img":"http://yanxuan.nosdn.127.net/c53d2dd5ba6b1cfb55bd42ea0783f051.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"美妆",
+                    "img":"http://yanxuan.nosdn.127.net/c2a2b9e906ee09decfa95d97378b1f21.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"面部护理",
+                    "img":"http://yanxuan.nosdn.127.net/5cc06eeb5e73c5604c63e595fc2821f5.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"身体护理",
+                    "img":"http://yanxuan.nosdn.127.net/f32e054b92760553a67bf8316442847c.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"香薰",
+                    "img":"http://yanxuan.nosdn.127.net/1ed028df20e665d0168058bda3985f5b.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "饮食",
+            "type": 9,
+            "title": "饮食分类",
+            "img": "http://yanxuan.nosdn.127.net/233d89f3e3b60a995d6388130e33f82d.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"糕点",
+                    "img":"http://yanxuan.nosdn.127.net/66ea1d6ad602a8e441af7cada93bdc7a.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"小食",
+                    "img":"http://yanxuan.nosdn.127.net/418f86049f957108a31ad55cec42c349.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"坚果炒货",
+                    "img":"http://yanxuan.nosdn.127.net/3972963a4b6f9588262d2a667f4c1c73.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"果干",
+                    "img":"http://yanxuan.nosdn.127.net/4cdbf6ae196671cca154fe16e152d8d4.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"肉类零食",
+                    "img":"http://yanxuan.nosdn.127.net/94480324b376a51af47cf92df70d1ade.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"冲饮",
+                    "img":"http://yanxuan.nosdn.127.net/1e3d8f65c7c7811baccdfda6711cbfd5.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"食材",
+                    "img":"http://yanxuan.nosdn.127.net/80db363e0687b1a65edc6e75c1b99726.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+          {
+            "name": "餐厨",
+            "type": 10,
+            "title": "餐厨分类",
+            "img": "http://yanxuan.nosdn.127.net/4fa599e382823827aadf6e22fbcf1889.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"水具杯壶",
+                    "img":"http://yanxuan.nosdn.127.net/e87ee45e449c9052c5ed83e9b91b368e.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"餐具",
+                    "img":"http://yanxuan.nosdn.127.net/caeebf4d82e07dd1597d9f15d532fd09.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"锅具",
+                    "img":"http://yanxuan.nosdn.127.net/84cdbbf3049a4f44340c3c3cfb1bce51.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"清洁保鲜",
+                    "img":"http://yanxuan.nosdn.127.net/988bb581ed5a26305b4adc0c33c69163.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"厨房配件",
+                    "img":"http://yanxuan.nosdn.127.net/2b4fc6055751585b64dac6e7cd561330.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"刀剪砧板",
+                    "img":"http://yanxuan.nosdn.127.net/7438fb61c42f9a86690da7c62b73ea01.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"茶具",
+                    "img":"http://yanxuan.nosdn.127.net/eabe95f5f15464394262ee243a49abc6.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "婴童",
+            "type": 11,
+            "title": "婴童分类",
+            "img": "http://yanxuan.nosdn.127.net/b532c03fe2e5238c2ea13d724a4f515b.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"婴童出行",
+                    "img":"http://yanxuan.nosdn.127.net/44800035df89ce7b6b3ca0352f47de0c.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"童鞋童包",
+                    "img":"http://yanxuan.nosdn.127.net/632981f3c1612da52741583f428e60ee.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"玩具",
+                    "img":"http://yanxuan.nosdn.127.net/929f186c3049da301bbd82fc3cf5039e.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"喂养",
+                    "img":"http://yanxuan.nosdn.127.net/14c54a331b2b79e9eb051e7e236761fb.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"婴童洗护",
+                    "img":"http://yanxuan.nosdn.127.net/d25988c6baa58ffbb7de499b63c3d53f.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"寝居",
+                    "img":"http://yanxuan.nosdn.127.net/0d6110851297410d3d7ed1e829c019ad.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"儿童服饰",
+                    "img":"http://yanxuan.nosdn.127.net/956599e6c50792e68c33d5f6b05e232e.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "文体",
+            "type": 12,
+            "title": "文体分类",
+            "img": "http://yanxuan.nosdn.127.net/a03bd33bc4788677fe202fe6851bbeb9.png?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"文具",
+                    "img":"http://yanxuan.nosdn.127.net/e074795f61a83292d0f20eb7d124e2ac.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"户外",
+                    "img":"http://yanxuan.nosdn.127.net/a15c33fdefe11388b6f4ed5280919fdd.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"唱片",
+                    "img":"http://yanxuan.nosdn.127.net/3b69079ea27f90b4f539e8c3b76680f5.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"礼品卡",
+                    "img":"http://yanxuan.nosdn.127.net/1266f0767a3f67298a40574df0d177fb.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"游戏点卡",
+                    "img":"http://yanxuan.nosdn.127.net/2b9dc4c3afd6176327639ff2f1e74a49.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"暴雪周边",
+                    "img":"http://yanxuan.nosdn.127.net/ae1d3e3fa2d25cb77ed78cdeca18aa9a.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"大话西游",
+                    "img":"http://yanxuan.nosdn.127.net/470a017f508e9a18f3068be7b315e14b.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         },
+         {
+            "name": "特色区",
+            "type": 13,
+            "title": "特色区分类",
+            "img": "http://yanxuan.nosdn.127.net/af3e73acecc05ea604da6f72f1361f3f.jpg?imageView&thumbnail=0x196&quality=75",
+            "commodity": [
+                  {
+                    "description":"春风馆",
+                    "img":"http://yanxuan.nosdn.127.net/2a403bdcb6dbf06f7fa0cfdc6bdef7c7.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"韩国馆",
+                    "img":"http://yanxuan.nosdn.127.net/a1e185658914642b71a7d51170108195.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"东南亚馆",
+                    "img":"http://yanxuan.nosdn.127.net/6749537a2b6a1619e42aa8e94a1b2d2c.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"澳新馆",
+                    "img":"http://yanxuan.nosdn.127.net/c280d991c26084534fada20ad8c8ffb5.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"欧洲馆",
+                    "img":"http://yanxuan.nosdn.127.net/e60a882e50816f2400ec33669f74e000.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                  {
+                    "description":"智造馆",
+                    "img":"http://yanxuan.nosdn.127.net/90cb73a8402bd246497ccab1589b18c5.png?imageView&quality=85&thumbnail=144x144"
+                  },
+                   {
+                    "description":"云音乐周边馆",
+                    "img":"http://yanxuan.nosdn.127.net/0478ff3b8f5e41b9fae09177962f97b1.png?imageView&quality=85&thumbnail=144x144"
+                  }
+            ]
+         }
+    ],
+    "focusList": [
+        {
+            "id": 1083001,
+            "name": "活动 双12正式",
+            "picUrl": "http://yanxuan.nosdn.127.net/8c45c30d43a1e277f594e07944c7c998.jpg",
+            "targetUrl": "https://m.you.163.com/act/pub/wvfdR0G0l0.html"
+        },
+        {
+            "id": 1071002,
+            "name": "类目 功能厨具",
+            "picUrl": "http://yanxuan.nosdn.127.net/74eef75edbb4a07f5429898c81d0aa6a.jpg",
+            "targetUrl": "http://you.163.com/item/list?categoryId=1005001&subCategoryId=1008012"
+        },
+        {
+            "id": 1060008,
+            "name": "类目 箱包C",
+            "picUrl": "http://yanxuan.nosdn.127.net/a78e561b84fe52c9858be7ff02428d7c.jpg",
+            "targetUrl": "http://you.163.com/item/list?categoryId=1008000&subCategoryId=1012001"
+        },
+        {
+            "id": 1068004,
+            "name": "类目 袜子",
+            "picUrl": "http://yanxuan.nosdn.127.net/7381ee939fbac0fa3211622d8f2a3379.jpg",
+            "targetUrl": "http://you.163.com/item/list?categoryId=1010000&subCategoryId=1008004"
+        },
+        {
+            "id": 1067005,
+            "name": "类目 杯壶",
+            "picUrl": "http://yanxuan.nosdn.127.net/6162a1cb61db06f693b19d6e0d9c6662.jpg",
+            "targetUrl": "http://you.163.com/item/list?categoryId=1005001&subCategoryId=1007000"
+        }
+    ],
+    "headCateList": [
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/b2bb514da7b9e126aadbb36d561919de.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1005000,
+            "imgUrl": "//nos.netease.com/yanxuan/f0d0e1a542e2095861b42bf789d948ce.jpg",
+            "level": null,
+            "name": "居家",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/927bc33f7ae2895dd6c11cf91f5e3228.png",
+                    "frontDesc": "填充物货真价实，选用优质材料，确保好芯",
+                    "frontName": "守护你的睡眠时光",
+                    "iconUrl": "",
+                    "id": 1008008,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "被枕",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/243e5bf327a87217ad1f54592f0176ec.png",
+                    "frontDesc": "严格用料，亲肤舒适",
+                    "frontName": "MUJI等品牌制造商出品",
+                    "iconUrl": "",
+                    "id": 1008009,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "床品件套",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/316afeb3948b295dfe073e4c51f77a42.png",
+                    "frontDesc": "助你拥有舒眠好梦",
+                    "frontName": "承托你的好时光",
+                    "iconUrl": "",
+                    "id": 1011003,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "床垫",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/83d4c87f28c993af1aa8d3e4d30a2fa2.png",
+                    "frontDesc": "天然好材料，手工制作，拒绝甲醛",
+                    "frontName": "地毯，家里的第“五”面墙",
+                    "iconUrl": "",
+                    "id": 1010003,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "地垫",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/4f00675caefd0d4177892ad18bfc2df6.png",
+                    "frontDesc": "一级原木，严苛工艺，还原家最初的模样",
+                    "frontName": "原创设计，全实木匠心极造",
+                    "iconUrl": "",
+                    "id": 1015000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "家具",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/8bbcd7de60a678846664af998f57e71c.png",
+                    "frontDesc": "居家办公两相宜",
+                    "frontName": "减缓久坐疲惫",
+                    "iconUrl": "",
+                    "id": 1008002,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "舒坐",
+                    "showIndex": 6,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/c48e0d9dcfac01499a437774a915842b.png",
+                    "frontDesc": "极简主义，贴近生活的设计",
+                    "frontName": "一盏灯，温暖一个家",
+                    "iconUrl": "",
+                    "id": 1008016,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "灯具",
+                    "showIndex": 7,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/ab0df9445d985bf6719ac415313a8e88.png",
+                    "frontDesc": "品质在于细节",
+                    "frontName": "装饰你的家，点缀美好生活",
+                    "iconUrl": "",
+                    "id": 1011004,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "家饰",
+                    "showIndex": 8,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/89f5056078016a30fa7c0a1180a84bdf.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1005001,
+            "imgUrl": "//nos.netease.com/yanxuan/88855173a0cfcfd889ee6394a3259c4f.jpg",
+            "level": null,
+            "name": "餐厨",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/4aab4598017b5749e3b63309d25e9f6b.png",
+                    "frontDesc": "中华铸铁、精选不锈钢、进口珐琅",
+                    "frontName": "一口好锅，炖煮生活一日三餐",
+                    "iconUrl": "",
+                    "id": 1005007,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "锅具",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/9d481ea4c2e9e6eda35aa720d407332e.png",
+                    "frontDesc": "精密氧化锆陶瓷，无味抑菌 久用不锈不钝",
+                    "frontName": "传统工艺 源自中国刀城 广东·阳江",
+                    "iconUrl": "",
+                    "id": 1013005,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "刀铲",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/22db4ccbf52dc62c723ac83aa587812a.png",
+                    "frontDesc": "日日使用的物件，制作精良才能更耐用",
+                    "frontName": "下厨省力小帮手",
+                    "iconUrl": "",
+                    "id": 1008012,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "功能厨具",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/f109afbb7e7a00c243c1da29991a5aa3.png",
+                    "frontDesc": "皇家道尔顿、日本KEYUCA制造商出品",
+                    "frontName": "用餐的美学",
+                    "iconUrl": "",
+                    "id": 1005008,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "餐具",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/0b244d3575b737c8f0ed7e84c5c4abd2.png",
+                    "frontDesc": "10Q品质控制系统，精工生产制作，匠人手艺",
+                    "frontName": "反复打磨，保冷保温",
+                    "iconUrl": "",
+                    "id": 1007000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "杯壶",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/9ea192cd2719c8348f42ec17842ba763.png",
+                    "frontDesc": "食品级不锈钢，意大利雪花砂拉丝，进口晒网工艺，保证严选",
+                    "frontName": "先进工艺制造，功夫体验",
+                    "iconUrl": "",
+                    "id": 1008013,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "茶具",
+                    "showIndex": 6,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/dc4d6c35b9f4abb42d2eeaf345710589.png",
+                    "frontDesc": "防尘防潮，真空保鲜，美味不限时",
+                    "frontName": "让厨房整洁又新鲜",
+                    "iconUrl": "",
+                    "id": 1008011,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "置物保鲜",
+                    "showIndex": 7,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/e8b67fe8b8db2ecc2e126a0aa631def0.png",
+                    "frontDesc": "环保便利，聪明之选",
+                    "frontName": "特殊材质，做家务更简单",
+                    "iconUrl": "",
+                    "id": 1005009,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "清洁",
+                    "showIndex": 8,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/6f3209289196a6337dd1638c524e0987.png",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1008000,
+            "imgUrl": "//nos.netease.com/yanxuan/935f1ab7dcfeb4bbd4a5da9935161aaf.jpg",
+            "level": null,
+            "name": "配件",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/3050a2b3052d766c4b460d4b766353a3.png",
+                    "frontDesc": "全牛皮选材，22道工序打磨",
+                    "frontName": "范思哲、Coach等品牌制造商出品",
+                    "iconUrl": "",
+                    "id": 1012001,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "功能箱包",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/5197c44b610d786796f955334b55c7a5.png",
+                    "frontDesc": "精巧设计，严选全程监制",
+                    "frontName": "背上的时髦",
+                    "iconUrl": "",
+                    "id": 1010004,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "双肩包",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/2f71c7710f0bf857e787e1adb449c8a2.png",
+                    "frontDesc": "匠心制版，立体有型",
+                    "frontName": "单肩装上惬意心情",
+                    "iconUrl": "",
+                    "id": 1008018,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "单肩包",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/4316c2d05745bc90d1f333e363e571bd.png",
+                    "frontDesc": "百搭造型，舒适脚感，久穿不累",
+                    "frontName": "一双好鞋，才能带你到远方",
+                    "iconUrl": "",
+                    "id": 1008003,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "鞋",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/868c2a976719cd508e9ddf807167a446.png",
+                    "frontDesc": "皮毛一体，保暖透气",
+                    "frontName": "经典的温暖，UGG制造商出品",
+                    "iconUrl": "",
+                    "id": 1013000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "靴",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/1121696544ed9b0c2a70e82f1088fa0e.png",
+                    "frontDesc": "人体工学设计，放松双脚",
+                    "frontName": "穿上拖鞋，回到自我",
+                    "iconUrl": "",
+                    "id": 1008010,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "拖鞋",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/3a8c7ae5b9dc5c1c4b7f2b656abb0279.png",
+                    "frontDesc": "严选好材料，亲肤柔软，防风抗寒，温暖不失风度",
+                    "frontName": "围上它，你的造型才完整",
+                    "iconUrl": "",
+                    "id": 1008007,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "围巾件套",
+                    "showIndex": 6,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/d835a76e56a88905194f543b67089b4b.png",
+                    "frontDesc": "优选设计，让细节显示好品味",
+                    "frontName": "与众不同的点睛之笔",
+                    "iconUrl": "",
+                    "id": 1020008,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "配饰",
+                    "showIndex": 7,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/135113d6a43536b717063413fa24d69a.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1010000,
+            "imgUrl": "//nos.netease.com/yanxuan/135113d6a43536b717063413fa24d69a.jpg",
+            "level": null,
+            "name": "服装",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/364269344ed69adafe1b70ab7998fc50.png",
+                    "frontDesc": "透气洁净，环保染制",
+                    "frontName": "来自李维斯、爱慕等制造商",
+                    "iconUrl": "",
+                    "id": 1010002,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "内裤",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/20279e1753e4eedc6e347857acda9681.png",
+                    "frontDesc": "自然染料，亲肤舒适",
+                    "frontName": "给你贴身的关怀",
+                    "iconUrl": "",
+                    "id": 1010001,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "内衣",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/f123c74f54d9acff0bd1546c60034814.png",
+                    "frontDesc": "优选面料，精细做工，越是细节之物，越显品质之处",
+                    "frontName": "新百伦、阿迪达斯等制造商出品",
+                    "iconUrl": "",
+                    "id": 1008004,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "袜子",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/883d89e54a9287569a201eca388a7cda.png",
+                    "frontDesc": "设计风格拥有复古质感，穿着感十分轻松。",
+                    "frontName": "外衣，是你面对这个世界的铠甲",
+                    "iconUrl": "",
+                    "id": 1020009,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "外衣",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/71f391af17fce739a6a57a1eeadbcbf0.png",
+                    "frontDesc": "舒适亲肤 休闲0束缚",
+                    "frontName": "居家休闲必备",
+                    "iconUrl": "",
+                    "id": 1013006,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "家居服",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/94aa4a4814e2a7a97639438f1d52dcee.png",
+                    "frontDesc": "细节讲究，合身剪裁，挺拔而不束缚",
+                    "frontName": "人人都能穿的优雅英伦味",
+                    "iconUrl": "",
+                    "id": 1020010,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "衬衫",
+                    "showIndex": 6,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/24a7a33cfeac0bb87a737480db79e053.png",
+                    "frontDesc": "立体裁剪，专为国人打造",
+                    "frontName": "自在而潇洒的穿着感",
+                    "iconUrl": "",
+                    "id": 1015001,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "T恤",
+                    "showIndex": 7,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/14bb4a29498a0f93a1ea001f26fea1dd.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1013001,
+            "imgUrl": "//nos.netease.com/yanxuan/14bb4a29498a0f93a1ea001f26fea1dd.jpg",
+            "level": null,
+            "name": "洗护",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/44ad9a739380aa6b7cf956fb2a06e7a7.png",
+                    "frontDesc": "精选长绒棉，出口日本品质标准",
+                    "frontName": "日本皇室专供，内野制造商出品",
+                    "iconUrl": "",
+                    "id": 1008001,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "毛巾",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/d43e7af0a6a9385d88be2ca1df679158.png",
+                    "frontDesc": "原料来自欧洲，提炼纯净，清雅不腻",
+                    "frontName": "把大自然的气息留在家",
+                    "iconUrl": "",
+                    "id": 1013004,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "香薰",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/aa49c088f74a1c318f1765cc2703495a.png",
+                    "frontDesc": "竹宝堂、资生堂等制造商出品",
+                    "frontName": "为你的面容添色",
+                    "iconUrl": "",
+                    "id": 1013002,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "美妆",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/f73df75f334126cf1f3823696ea0663c.png",
+                    "frontDesc": "天然成分，无化学添加",
+                    "frontName": "温和无刺激的呵护",
+                    "iconUrl": "",
+                    "id": 1020001,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "护肤",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/672ddbed88d9762d2be789080880b16a.png",
+                    "frontDesc": "按摩头皮，柔顺秀发",
+                    "frontName": "Goody制造商出品 德国工艺",
+                    "iconUrl": "",
+                    "id": 1013003,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "镜梳",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/e071686c212e93aa2fcafd0062a9c613.png",
+                    "frontDesc": "天然材料，温和去除污垢",
+                    "frontName": "洁净才能带来清爽心情",
+                    "iconUrl": "",
+                    "id": 1009000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "洗浴",
+                    "showIndex": 6,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/1a851b2b3c9e16bdfd020a5fc03e9140.png",
+                    "frontDesc": "环保材料，耐用不发霉",
+                    "frontName": "小工具成就美好浴室",
+                    "iconUrl": "",
+                    "id": 1020002,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "用具",
+                    "showIndex": 7,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/8ab3c73fe90951a942e8b06d848f8743.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1011000,
+            "imgUrl": "//nos.netease.com/yanxuan/8ab3c73fe90951a942e8b06d848f8743.jpg",
+            "level": null,
+            "name": "婴童",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/4e50f3c4e4d0a64cd0ad14cfc0b6bd17.png",
+                    "frontDesc": "100%纯棉，无荧光剂，严格质检",
+                    "frontName": "萌宝穿搭，柔软舒适触感",
+                    "iconUrl": "",
+                    "id": 1020003,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "服饰",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/720aebaa529df9391b95a078dfb2fd5c.png",
+                    "frontDesc": "孕育生命的你更值得被爱",
+                    "frontName": "犬印、Harvest Hills制造商",
+                    "iconUrl": "",
+                    "id": 1011001,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "妈咪",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/0f3c5ad63139096fd0760219e12149af.png",
+                    "frontDesc": "始于初心，为爱初色",
+                    "frontName": "无荧光剂，婴幼儿A类标准",
+                    "iconUrl": "",
+                    "id": 1020005,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "寝居",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/7aac7c5819f71345a52a4b9df23d6239.png",
+                    "frontDesc": "萌宝童趣必备",
+                    "frontName": "严选材质，安全无害保证",
+                    "iconUrl": "",
+                    "id": 1020006,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "玩具",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/6d6df260e21b75ae2b57e97419ef989d.png",
+                    "frontDesc": "好材料，好设计，制作好的儿童用品",
+                    "frontName": "给孩子更美好的童年体验",
+                    "iconUrl": "",
+                    "id": 1020004,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "用品",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/5db40a5bf84c177515610471d4d08687.png",
+                    "frontDesc": "安全健康，我们执着于每个细节",
+                    "frontName": "宝宝吃得香，妈妈才放心",
+                    "iconUrl": "",
+                    "id": 1020007,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "喂养",
+                    "showIndex": 6,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/a0c91ae573079830743dec6ee08f5841.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1012000,
+            "imgUrl": "//nos.netease.com/yanxuan/a0c91ae573079830743dec6ee08f5841.jpg",
+            "level": null,
+            "name": "杂货",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/e1743239e41ca9af76875aedc73be7f0.png",
+                    "frontDesc": "极简设计，环保材质",
+                    "frontName": "找回书写的力量",
+                    "iconUrl": "",
+                    "id": 1012003,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "文具",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/fdc048e1bf4f04d1c20b32eda5d1dc6e.png",
+                    "frontDesc": "抗菌防霉，便利拆卸，小空间的大智慧",
+                    "frontName": "选自古驰竹柄原料供应商，智慧收纳",
+                    "iconUrl": "",
+                    "id": 1008017,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "收纳",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/b29a11afa76b9f4a57131555f1a54c77.png",
+                    "frontDesc": "便携设计，轻便旅途",
+                    "frontName": "旅途，贴心相伴",
+                    "iconUrl": "",
+                    "id": 1020000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "旅行",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/4e929a21baebdb1200361d8097e35e45.png",
+                    "frontDesc": "玻璃纤维伞骨，稳定抗风",
+                    "frontName": "WPC制作商出品",
+                    "iconUrl": "",
+                    "id": 1012002,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "雨具",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/9b93e661ff59cbda6094e8b30a63724e.png",
+                    "frontDesc": "过滤率高达99.68%，高于国标KN95限定",
+                    "frontName": "权威数据认证效果，防霾有底气",
+                    "iconUrl": "",
+                    "id": 1008006,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "口罩",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/449327dfc891fd40426d7b601a8b1e99.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1005002,
+            "imgUrl": "//nos.netease.com/yanxuan/9a29ef4f41c305a12e1459f12abd290f.jpg",
+            "level": null,
+            "name": "饮食",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/663f568475c994358bf31bcb67d122fe.png",
+                    "frontDesc": "真空低温脱水，古法秘制，秘料腌制",
+                    "frontName": "天然原料，健康烹饪",
+                    "iconUrl": "",
+                    "id": 1005011,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "小食",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/93168242df456b5f7bf3c89653b3db76.png",
+                    "frontDesc": "用心烘焙，0香精，0防腐剂",
+                    "frontName": "四季茶食，应时细点",
+                    "iconUrl": "",
+                    "id": 1008015,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "糕点",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/6c43063003207168c1d8e83a923e8515.png",
+                    "frontDesc": "当季新果，营养均衡生活",
+                    "frontName": "原产地直供，颗颗饱满",
+                    "iconUrl": "",
+                    "id": 1005010,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "炒货",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/2919b0d6eec79182cca31dc827f4d00a.png",
+                    "frontDesc": "跋山涉水，严选品种，谷香四溢，茶香醇厚",
+                    "frontName": "严格质检，每一口都放心",
+                    "iconUrl": "",
+                    "id": 1005013,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "冲饮",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/e050980992725b7932bb3645fe5aec08.png",
+                    "frontDesc": "择时采摘，去杂优选，大自然的馈赠当如此敬畏相待",
+                    "frontName": "自然培育，产地讲究",
+                    "iconUrl": "",
+                    "id": 1005012,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "食材",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/db48a1db4daab74233656caaea4a06f3.png",
+                    "frontDesc": "优选健康原料，甜食也吃得放心",
+                    "frontName": "糖心蜜意，甜而不腻",
+                    "iconUrl": "",
+                    "id": 1008014,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "糖巧",
+                    "showIndex": 6,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        },
+        {
+            "bannerUrl": "//nos.netease.com/yanxuan/72de912b6350b33ecf88a27498840e62.jpg",
+            "frontDesc": "",
+            "frontName": "",
+            "iconUrl": "",
+            "id": 1019000,
+            "imgUrl": "//nos.netease.com/yanxuan/72de912b6350b33ecf88a27498840e62.jpg",
+            "level": null,
+            "name": "其他",
+            "showIndex": 0,
+            "subCateList": [
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/da884ff3b9e9d5276986c99e85722461.png",
+                    "frontDesc": "海外供应商直供，零关税、零风险、即时达",
+                    "frontName": "来自日本制造的好物",
+                    "iconUrl": "",
+                    "id": 1011002,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "日本",
+                    "showIndex": 1,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/e7b37b1ed5c18d63dc3e6c3f1aa85d8a.png",
+                    "frontDesc": "遇见节日的美好",
+                    "frontName": "限量礼盒限时发售",
+                    "iconUrl": "",
+                    "id": 1021000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "节日礼盒",
+                    "showIndex": 2,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/a0352c57c60ce4f68370ecdab6a30857.png",
+                    "frontDesc": "出口品质，严选贴合萌宠生活习惯用品。",
+                    "frontName": "抑菌除味，打造宠物舒适空间",
+                    "iconUrl": "",
+                    "id": 1017000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "宠物",
+                    "showIndex": 3,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/83d22ca3d1c8f94ee23ca96de489864c.png",
+                    "frontDesc": "踏青出游，便携不误好心情",
+                    "frontName": "MUJI、Nike等制造商出品",
+                    "iconUrl": "",
+                    "id": 1008005,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "户外",
+                    "showIndex": 4,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/3ec003761d346bc866de2ec249d7ff19.png",
+                    "frontDesc": "享受安全智能的科技生活",
+                    "frontName": "智能硬件，匠心出品",
+                    "iconUrl": "",
+                    "id": 1022000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "数码",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                },
+                {
+                    "bannerUrl": "http://yanxuan.nosdn.127.net/b5e9f174404ef81b8603d6ecc304c62e.png",
+                    "frontDesc": "湖南卫视《夏日甜心》授权，独家发售大猫熊同款周边",
+                    "frontName": "湖南卫视《夏日甜心》授权，独家发售",
+                    "iconUrl": "",
+                    "id": 1018000,
+                    "imgUrl": "",
+                    "level": "L2",
+                    "name": "夏日甜心",
+                    "showIndex": 5,
+                    "subCateList": [],
+                    "superCategoryId": 0
+                }
+            ],
+            "superCategoryId": 0
+        }
+    ],
+    "newItemList": [
+        {
+            "colorNum": 0,
+            "id": 1113021,
+            "limitedFlag": false,
+            "listPicUrl": "http://yanxuan.nosdn.127.net/ef659663b2ca64e9a8fe4f39fbef420d.png",
+            "name": "网易味央黑猪肉 双月赏味配送",
+            "newItemFlag": false,
+            "pieceNum": 0,
+            "pieceUnitDesc": "件",
+            "primarySkuPreSellPrice": 650,
+            "primarySkuPreSellStatus": 1,
+            "retailPrice": 650,
+            "sellVolume": 760,
+            "simpleDesc": "限量供应，12月12日零点开售。",
+            "status": 2,
+            "unitPrice": 0
+        },
+        {
+            "colorNum": 0,
+            "id": 1092037,
+            "limitedFlag": false,
+            "listPicUrl": "http://yanxuan.nosdn.127.net/c2050cf8dd0ff2b5e5701f886260ab21.png",
+            "name": "红玫青果香薰挥发液",
+            "newItemFlag": false,
+            "pieceNum": 0,
+            "pieceUnitDesc": "件",
+            "primarySkuPreSellPrice": 0,
+            "primarySkuPreSellStatus": 0,
+            "retailPrice": 59,
+            "sellVolume": 227,
+            "simpleDesc": "花娆热浪与初甜桂味",
+            "status": 2,
+            "unitPrice": 0
+        },
+        {
+            "colorNum": 2,
+            "id": 1096006,
+            "limitedFlag": false,
+            "listPicUrl": "http://yanxuan.nosdn.127.net/67f393d0e523189047cf69f6907adf77.png",
+            "name": "磨砂牛皮商务休闲靴",
+            "newItemFlag": false,
+            "pieceNum": 0,
+            "pieceUnitDesc": "件",
+            "primarySkuPreSellPrice": 0,
+            "primarySkuPreSellStatus": 0,
+            "retailPrice": 369,
+            "sellVolume": 648,
+            "simpleDesc": "柔软牛皮，打造更优雅的舒适",
+            "status": 2,
+            "unitPrice": 0
+        },
+        {
+            "colorNum": 0,
+            "id": 1092011,
+            "limitedFlag": false,
+            "listPicUrl": "http://yanxuan.nosdn.127.net/8d120b3d6bd20e64b02597d484a62f4f.png",
+            "name": "超轻防水杜邦纸便携收纳包",
+            "newItemFlag": false,
+            "pieceNum": 0,
+            "pieceUnitDesc": "件",
+            "primarySkuPreSellPrice": 0,
+            "primarySkuPreSellStatus": 0,
+            "retailPrice": 29,
+            "sellVolume": 2021,
+            "simpleDesc": "撕不烂的“纸”",
+            "status": 2,
+            "unitPrice": 0
+        }
+    ],
+    "popularItemList": [
+        {
+            "colorNum": 3,
+            "id": 1009009,
+            "limitedFlag": false,
+            "listPicUrl": "http://yanxuan.nosdn.127.net/8326e257f8a9a38d237c10a51fee3a9d.png",
+            "name": "白鹅绒秋冬加厚羽绒被",
+            "newItemFlag": false,
+            "pieceNum": 0,
+            "pieceUnitDesc": "件",
+            "primarySkuPreSellPrice": 0,
+            "primarySkuPreSellStatus": 0,
+            "retailPrice": 1999,
+            "sellVolume": 2293,
+            "simpleDesc": "双层立衬工艺杜绝热量流失",
+            "status": 2,
+            "unitPrice": 0
+        },
+        {
+            "colorNum": 4,
+            "id": 1006001,
+            "limitedFlag": false,
+            "listPicUrl": "http://yanxuan.nosdn.127.net/8514595288532f0bcbdc5c1e9d226066.png",
+            "name": "日式多功能颈枕 针织款",
+            "newItemFlag": false,
+            "pieceNum": 0,
+            "pieceUnitDesc": "件",
+            "primarySkuPreSellPrice": 0,
+            "primarySkuPreSellStatus": 0,
+            "retailPrice": 69,
+            "sellVolume": 37873,
+            "simpleDesc": "细腻天竺棉，亲肤舒适",
+            "status": 2,
+            "unitPrice": 0
+        },
+        {
+            "colorNum": 8,
+            "id": 1006051,
+            "limitedFlag": false,
+            "listPicUrl": "http://yanxuan.nosdn.127.net/a1b789392b451d3334c16ce076b80cdf.png",
+            "name": "皇室御用超柔毛巾",
+            "newItemFlag": false,
+            "pieceNum": 2,
+            "pieceUnitDesc": "条",
+            "primarySkuPreSellPrice": 0,
+            "primarySkuPreSellStatus": 0,
+            "retailPrice": 59,
+            "sellVolume": 22288,
+            "simpleDesc": "至柔至软",
+            "status": 2,
+            "unitPrice": 0
+        }
+    ],
+    "tagList": [
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/9df78eb751eae2546bd3ee7e61c9b854.png",
+            "floorPrice": 49,
+            "id": 1001020,
+            "name": "Ralph Lauren制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/ec7f997c27a8e26359440ca1d383c101.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/164a24b4bd5fc4885ed910c92ce336f3.png",
+            "floorPrice": 59,
+            "id": 1022000,
+            "name": "UGG制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/90976ef105745f852cf062d8d45e27aa.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/1b1cc16135fd8467d40983f75f644127.png",
+            "floorPrice": 49,
+            "id": 1001038,
+            "name": "Coach制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/8281db53767ce4beef0cbe2e8bfd98a8.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/3a44ae7db86f3f9b6e542720c54cc349.png",
+            "floorPrice": 9.9,
+            "id": 1024003,
+            "name": "Stoneline制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/c8c4219ab1c7613c26c638e7141278fb.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/335334d0deaff6dc3376334822ab3a2f.png",
+            "floorPrice": 49,
+            "id": 1001003,
+            "name": "Adidas制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/6f954ea8cee30e161dda048ffbfd950f.png"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/5fd51e29b9459dae7df8040c8219f241.png",
+            "floorPrice": 45,
+            "id": 1001008,
+            "name": "膳魔师制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/03c1986791dd08c57b8259542d127085.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/f424be16a145af1a768f60fef9d9fbec.png",
+            "floorPrice": 14.9,
+            "id": 1001000,
+            "name": "MUJI制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/9840e498a28ef2a06bad3ad1a1dec68b.png"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/0d72832e37e7e3ea391b519abbbc95a3.png",
+            "floorPrice": 29,
+            "id": 1001007,
+            "name": "优衣库制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/f3d196c03f8aac5625faba00d670ee03.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/5104f84110eac111968c63c18ebd62c0.png",
+            "floorPrice": 39,
+            "id": 1001016,
+            "name": "爱慕制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/9bb19476a4c7cd32938d840eecd8038c.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/8ca3ce091504f8aa1fba3fdbb7a6e351.png",
+            "floorPrice": 29,
+            "id": 1001002,
+            "name": "内野制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/e50654982984206b54e9226e5ab7f90c.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/70ada9877b2efa82227437af3231fe50.png",
+            "floorPrice": 99,
+            "id": 1016002,
+            "name": "HUGO BOSS制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/888289da7fe200949806eefa069af019.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/6f3d310601b18610553c675e0e14d107.png",
+            "floorPrice": 69,
+            "id": 1015000,
+            "name": "NITORI制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/0657854429c6717e8ace7dcff6a2468b.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/5449236b80d1e678dedee2f626cd67c4.png",
+            "floorPrice": 29.9,
+            "id": 1010002,
+            "name": "资生堂制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/19b7bcf96338016d4d614137705b5059.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/68940e8e23f96dbeb3548d943d83d5e4.png",
+            "floorPrice": 39,
+            "id": 1001012,
+            "name": "Wedgwood制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/6d6124123311f85903a8bc864d37464c.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/c80ae035387495a61a4515906205efff.png",
+            "floorPrice": 99,
+            "id": 1006000,
+            "name": "范思哲制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/af1be8b751d6640a58ededaf57172ce8.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/0de643a02043fd9680b11e21c452adaa.png",
+            "floorPrice": 29,
+            "id": 1001013,
+            "name": "Royal Doulton制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/0e8311d2246e5643c622743d9684f235.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/7c918f37de108f3687d69b39daab34eb.png",
+            "floorPrice": 39,
+            "id": 1005001,
+            "name": "Goody制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/431cd1e6bfca9964f96f1964a8b08ebb.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/9b85b45f23da558be101dbcc273b1d6d.png",
+            "floorPrice": 14.9,
+            "id": 1001015,
+            "name": "日本KEYUCA制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/d91db0c68c50cd109c16f0ad1427ed0b.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/efe9131599ced0297213e6ec67eb2174.png",
+            "floorPrice": 19.9,
+            "id": 1003000,
+            "name": "Carters制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/a3fd78f8cf429a34e1e2ea761466d428.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/2018e9ac91ec37d9aaf437a1fd5d7070.png",
+            "floorPrice": 14.9,
+            "id": 1024000,
+            "name": "WMF制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/bdca48af1234c813ec5ccbc48a337cba.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/658f09b7ec522d31742b47b914d64338.png",
+            "floorPrice": 49,
+            "id": 1026000,
+            "name": "Calvin Klein制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/36a8eed57fc5f2136f953aecc31364f0.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/e11385bf29d1b3949435b80fcd000948.png",
+            "floorPrice": 98,
+            "id": 1024006,
+            "name": "KitchenAid制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/2f79a254cd4020966ea1272e2d27b510.jpg"
+        },
+        {
+            "appListPicUrl": "http://yanxuan.nosdn.127.net/c8dac4eb1a458d778420ba520edab3d0.png",
+            "floorPrice": 69,
+            "id": 1021000,
+            "name": "Marc Jacobs制造商",
+            "picUrl": "http://yanxuan.nosdn.127.net/8fae4928b46aa610c0f029e4a5d5a000.jpg"
+        }
+    ],
+    "topicList": [
+        {
+            "id": 1003000,
+            "itemPicUrl": "http://yanxuan.nosdn.127.net/beef44d17877e54f9ed04697af305375.jpg",
+            "priceInfo": 9.9,
+            "scenePicUrl": "http://yanxuan.nosdn.127.net/beef44d17877e54f9ed04697af305375.jpg",
+            "subtitle": "超值性价比好物荟集",
+            "title": "严选年终大赏之性价比榜",
+            "topicId": 20161206
+        },
+        {
+            "id": 1002000,
+            "itemPicUrl": "http://yanxuan.nosdn.127.net/50a435a5481998a5e0d29827d80f9ef1.jpg",
+            "priceInfo": 19.9,
+            "scenePicUrl": "http://yanxuan.nosdn.127.net/50a435a5481998a5e0d29827d80f9ef1.jpg",
+            "subtitle": "暖冬御寒超全指南",
+            "title": "12月篇 本月必买的好物",
+            "topicId": 20161129
+        },
+        {
+            "id": 1003001,
+            "itemPicUrl": "http://yanxuan.nosdn.127.net/e0519947acd3413d922d214e51ac6123.jpg",
+            "priceInfo": 14.9,
+            "scenePicUrl": "http://yanxuan.nosdn.127.net/e0519947acd3413d922d214e51ac6123.jpg",
+            "subtitle": "教你像ins达人一样拍美食",
+            "title": "高颜值好物，晒出生活好品味",
+            "topicId": 20161201
+        }
+    ],
+    "goods": {
+      "picArr": [
+                    "http://yanxuan.nosdn.127.net/cc4f4ce13dabc26d03c91c5e04824fb2.png?imageView&quality=65&thumbnail=330x330",
+                    "http://yanxuan.nosdn.127.net/4933493572b730944f5b20d33d2d0095.png?imageView&quality=65&thumbnail=330x3304",
+                    "http://yanxuan.nosdn.127.net/433493d8e7b499b85515fde2611b0744.png?imageView&quality=65&thumbnail=330x330",
+                    "http://yanxuan.nosdn.127.net/a08079d9e611d0cbd1d420addf7a03a0.jpg?imageView&quality=65&thumbnail=330x330",
+                    "http://yanxuan.nosdn.127.net/363a3a2131509e812a4268f2dc9e6aa3.png?imageView&quality=65&thumbnail=330x330",
+                    "http://yanxuan.nosdn.127.net/1dcd08458477be5764343189018f3f33.png?imageView&quality=65&thumbnail=330x330",
+                    "http://yanxuan.nosdn.127.net/58acbc1b7450c0bd6c685fc8acd0aab3.png?imageView&quality=65&thumbnail=330x330"
+            ],
+      "picArrt": [
+                  "http://yanxuan.nosdn.127.net/5f6c93aceee89f6a7e169be91eeb2418.png?imageView&quality=65&thumbnail=330x330",
+                  "http://yanxuan.nosdn.127.net/8cef013bce2299324fddf88ad0a48724.png?imageView&quality=65&thumbnail=330x330",
+                  "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png?imageView&quality=65&thumbnail=330x330",
+                  "http://yanxuan.nosdn.127.net/12cea73ce3039c94b89a47ee25e04d52.png?imageView&quality=65&thumbnail=330x330",
+                  "http://yanxuan.nosdn.127.net/f517e683c0cb9d26793ddbdc74178799.png?imageView&quality=65&thumbnail=330x330",
+                  "http://yanxuan.nosdn.127.net/b532f2f441572242333f6c5b92fc9f10.png?imageView&quality=65&thumbnail=330x330",
+                  "http://yanxuan.nosdn.127.net/2e7ec7849305e0c02991b9f3dfc2a498.png?imageView&quality=65&thumbnail=330x330"
+      ]
+    },
+    "iconContent": {
+      "self": [
+            {
+              "icon": "http://yanxuan.nosdn.127.net/cae45612b8aae577d8bd73338e2fc02c.png",
+              "text": "网易自营品牌"
+            },
+            {
+              "icon":"http://yanxuan.nosdn.127.net/cae45612b8aae577d8bd73338e2fc02c.png",
+              "text":"30天无忧退货"
+            },
+            {
+               "icon": "http://yanxuan.nosdn.127.net/cae45612b8aae577d8bd73338e2fc02c.png",
+               "text": "48小时快速退款"
+            }
+      ],
+      "footer": [
+           {
+              "icon": "https://m.360buyimg.com/mobilecms/jfs/t15145/137/2502885754/3106/de5e0b14/5aa10cd2N46f18ce6.png",
+              "title": "首页"
+           },
+           {
+              "icon": "https://m.360buyimg.com/mobilecms/jfs/t15076/226/2372445198/4768/4b9c36de/5aa10ce2N848e2dbd.png",
+              "title": "识物"
+           },
+           {
+              "icon": "https://m.360buyimg.com/mobilecms/jfs/t19183/49/696491919/3763/dec8cceb/5aa10cdbNa9cd0320.png",
+              "title": "分类"
+           },
+           {
+              "icon": "https://m.360buyimg.com/mobilecms/jfs/t18583/69/717127328/4407/5e47882b/5aa10ceaN649eec12.png",
+              "title": "购物车"
+           },
+           {
+              "icon": "https://m.360buyimg.com/mobilecms/jfs/t16849/271/702371255/4462/d55edd83/5aa10cf6Nee5122a5.png",
+              "title": "个人"
+           }
+      ],
+      "textItem": [
+               {
+                 "text": "推荐"
+               },
+               {
+                "text": "居家"
+               },
+               {
+                "text": "配件"
+                },
+               {
+                 "text":"服装"
+               },
+               {
+                 "text":"电器"
+               },
+               {
+                 "text":"洗护"
+               },
+               {
+                 "text":"饮食"
+               },
+               {
+                 "text":"餐厨"
+               },
+               {
+                 "text":"婴童"
+               },
+               {
+                 "text":"文体"
+               },
+               {
+                 "text":"特色区"
+               }
+           ]
+    },
+    "brandProvide": {
+      "title": "品牌制造商直供",
+      "icon": "//yanxuan-static.nosdn.127.net/hxm/yanxuan-wap/p/20161201/style/img/icon-normal/go2-3e511991d6.png",
+      "content":[
+           {
+               "pic": "http://yanxuan.nosdn.127.net/dd604acce92e61616a0fa2498cf0fd35.png?imageView&thumbnail=355x0&quality=65",
+               "text": "Nine West制造商",
+               "price": "199元"
+           },
+           {
+               "pic": "http://yanxuan.nosdn.127.net/f898f62e0a3d68faf9506792f344a503.png?imageView&thumbnail=355x0&quality=65",
+               "text": "Ralph Lauren制造商",
+               "price": "19元"
+           },
+           {
+               "pic": "http://yanxuan.nosdn.127.net/eadb8d362726ccef7c40659a5f20e210.png?imageView&thumbnail=355x0&quality=65",
+               "text": "爱慕制造商",
+               "price": "35元"
+           },
+           {
+               "pic": "http://yanxuan.nosdn.127.net/bcca932aeb9d818dcf6d3a4804f7311b.png?imageView&thumbnail=355x0&quality=65",
+               "text": "CK制造商",
+               "price": "25元"
+           }
+      ]
+    }
+}
